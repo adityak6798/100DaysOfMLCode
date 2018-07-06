@@ -1,7 +1,12 @@
 Day 0: 6 July, 2018
 
+Today's Progress: Solved the Blood Donors Problem on DrivenData (0.45 loss, rank 839).
+
+Thoughts: I should focus on doing data analysis, and review visualisations of data. Improvement in performance is huge.
+
+
+Day 1: 7 July, 2018
+
 Today's Progress: 
 
 Thoughts: 
-
-Link of Work:
