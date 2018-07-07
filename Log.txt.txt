@@ -7,6 +7,12 @@ Thoughts: I should focus on doing data analysis, and review visualisations of da
 
 Day 1: 7 July, 2018
 
-Today's Progress: 
+Today's Progress: Started Columbia University's EdX Course on Machine Learning to gain an understanding into decision trees and other basic ML algorithmms. Will hopefully be done by tomorrow. Explored Kaggle's Titanic Dataset, tried an LSTM-Neural Net hybrid architecture.
+
+Thoughts: An understanding of basic ML algorithms will enable a better grip on each's use cases.
+
+Day 2: 8 July, 2018
+
+Today's Progress:
 
 Thoughts: 
