@@ -13,6 +13,13 @@ Thoughts: An understanding of basic ML algorithms will enable a better grip on e
 
 Day 2: 8 July, 2018
 
+Today's Progress: Started Mining Massive Datasets course from Stanford(upto Lecture 8).
+
+Thoughts: MapReduce and PageRank are interesting.
+
+
+Day 3: 9 July, 2018
+
 Today's Progress:
 
-Thoughts: 
+Thoughts:
