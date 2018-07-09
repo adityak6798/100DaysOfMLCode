@@ -20,6 +20,9 @@ Thoughts: MapReduce and PageRank are interesting.
 
 Day 3: 9 July, 2018
 
-Today's Progress:
+Today's Progress: Started a course on Udemy on PyTorch. Completed understanding of the PageRank algorithm, SVD algorithm.
 
-Thoughts:
+
+Day 4: 10 July, 2018
+
+Today's Progress:
