@@ -25,4 +25,13 @@ Today's Progress: Started a course on Udemy on PyTorch. Completed understanding 
 
 Day 4: 10 July, 2018
 
+Today's Progress: Started learning PyTorch from Deep Learning Wizard's Course on Udemy.
+
+
+Day 5: 11 July, 2018
+
+Today's Progress: Finished the course on PyTorch.
+
+Day 6: 12 July, 2018
+
 Today's Progress:
