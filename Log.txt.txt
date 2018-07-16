@@ -53,4 +53,8 @@ Today's Progress: Lecture 2 of ML Fast.AI, learnt and used Random Forests.
 
 Day 10: 16 July, 2018
 
-Today's Progress:
+Today's Progress: Lectures 3,4,5 of ML Course Fast.AI. Used a Random Forest to submit to HackerEarth's ML Challenge, currently ranked 56th.
+
+Day 11: 17 July, 2018
+
+Today's Progress: 
